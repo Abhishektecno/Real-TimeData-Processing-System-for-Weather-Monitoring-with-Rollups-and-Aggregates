@@ -20,7 +20,7 @@ Copy your API key, which will be needed to access weather data.
 
 **1.2 Clone the Repository**
 
---git clone https://github.com/your-username/weather-monitoring-system.git
+--git clone https://github.com/Abhishektecno/weather-monitoring-system.git
 
 --cd weather-monitoring-system
 
